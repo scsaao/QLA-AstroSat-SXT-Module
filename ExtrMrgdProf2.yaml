@@ -1,0 +1,18 @@
+datadir : /home/blazar/WorskshopExample/SXT/CheckNewWebRun/merged_cl_evt_files/merged_cl_evt_files
+data :
+    MrgdEvts :
+        - BMP42_PC_A10_053T35_9000004438_or30740_30754_merged_cl.evt
+        - JO134_PC_A10_058T14_9000004430_or30702_30707_merged_cl.evt
+        - VCC692_PC_A10_071T11_9000004436_or30724_30740_merged_cl.evt
+    MrgdMkfs :
+        #-
+        #-
+        #-
+    MrgdLbts :
+        #-
+        #-
+        #-
+    datamode :
+        - PC
+        - PC
+        - PC
